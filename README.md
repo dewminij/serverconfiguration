@@ -1,2 +1,5 @@
 # serverconfiguration
-Configuring Windows Server 2022
+
+Configuration of Windows Server 2022
+
+
